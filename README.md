@@ -1,1 +1,2 @@
-# willberies
+# willberries - это учебный сайт которого я создал в течение 4 дней в учебной платформе GLO academy.
+## Проект сделал Nurbol Zhkslk
